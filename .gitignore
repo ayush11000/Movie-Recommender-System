@@ -2,3 +2,4 @@ similarity.pkl
 movies_dict.pkl
 .ipynb_checkpoints
 .DS_Store
+Heroku Deployment/movies_dict.pklHeroku Deployment/similarity.pkl
