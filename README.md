@@ -1,3 +1,9 @@
-# Movie-Recommender-System
+#  Movie Recommender System Project
 
-Live Demo - https://movie-recommender-portfolio.herokuapp.com
+For selected movie , this is a project recommends five most similar movies based on multiple factor.
+
+- python notebook only contains Implementation on model only.
+- Heroku Deployment Code of project is given in 
+'Heroku Deployment' folder.
+
+[Click here to see live demo of this project](https://www.google.com)
