@@ -7,5 +7,5 @@ For selected movie , this is a project recommends five most similar movies based
 - Heroku Deployment Code of project is given in 
 'Heroku Deployment' folder.
 
-[Click here to see live demo of this project](https://dashboard.heroku.com/apps/movie-recommender-portfolio)
+[Click here to see live demo of this project](https://movie-recommender-portfolio.herokuapp.com)
 
