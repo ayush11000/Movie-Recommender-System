@@ -1,4 +1,5 @@
 #  Movie Recommender System Project
+### content based movie recommender system using cosine similarity
 
 For selected movie , this is a project recommends five most similar movies based on multiple factor.
 
@@ -6,4 +7,5 @@ For selected movie , this is a project recommends five most similar movies based
 - Heroku Deployment Code of project is given in 
 'Heroku Deployment' folder.
 
-[Click here to see live demo of this project](https://www.google.com)
+[Click here to see live demo of this project](https://dashboard.heroku.com/apps/movie-recommender-portfolio)
+
